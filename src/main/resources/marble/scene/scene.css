@@ -1,0 +1,14 @@
+.button {
+    -fx-background-color: #ff575b;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15;
+    -fx-font-family: "돋움";
+}
+
+.button:hover {
+    -fx-background-color: #f3718f;
+}
+
+.button:pressed {
+    -fx-background-color: #db4265;
+}

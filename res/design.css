@@ -1,0 +1,6 @@
+.button {
+    -fx-background-color: #ff575b;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15;
+    -fx-font-family: "Dotum";
+}
